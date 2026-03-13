@@ -1,6 +1,8 @@
 # COMP-3610-Assignment2
 816042173
 
+A2_graphs is the same as A2 but with all the graphs rendered
+
 ---
 
 ## Project Structure
